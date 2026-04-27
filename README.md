@@ -20,4 +20,3 @@ Aspiring AI & Machine Learning Engineer.
 Completed internship at Elevate Labs with hands-on project experience.
 
 ## 🎬 Video Resume
-[Watch Video](./MrutyunjayJoshi_RKUniversity_VideoResume.mp4)
